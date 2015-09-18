@@ -1,9 +1,13 @@
+/**
+ *@author<chenlipeng><15038134525@163.com>
+ */
+
 //2015/09/15 360 C++ 校园招聘
 //输入一个数字，，
 //输出 其 质因子
 //输出格式 比较特殊， 即如我们日常看到的电子表一样的格式，，
 //不同质因子之间用*连接起来
-//author chenlipeng <chenlipeng@oneniceapp.com>
+
 #include <iostream>
 #include <string>
 #include <vector>

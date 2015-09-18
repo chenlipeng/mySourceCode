@@ -1,3 +1,7 @@
+/**
+ *@author<chenlipeng><15038134525@163.com>
+ */
+
 //2015/09/15 C++ 360应届生校园招聘编程题
 //相对比较简单，未设计什么算法，，
 //就是考研 有政治，英语，数学，专业课
@@ -5,7 +9,7 @@
 //如果不满足以上条件 则失败Fail
 //如果分数大于等于350， 则享受公费Gongfei ， 负责自费Zifei
 //So easy!
-//author chenlipeng <chenlipeng@oneniceapp.com>
+
 #include <iostream>
 using namespace std;
 int main() {
