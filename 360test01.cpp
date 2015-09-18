@@ -10,6 +10,7 @@
 //如果分数大于等于350， 则享受公费Gongfei ， 负责自费Zifei
 //So easy!
 
+
 #include <iostream>
 using namespace std;
 int main() {
